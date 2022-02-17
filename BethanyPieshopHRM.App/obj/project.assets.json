@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "BethanyPieShopHRM.Shared/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/BethanyPieShopHRM.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BethanyPieShopHRM.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BethanyPieShopHRM.Shared/1.0.0": {
+      "type": "project",
+      "path": "../BethanyPieShopHRM.Shared/BethanyPieShopHRM.Shared.csproj",
+      "msbuildProject": "../BethanyPieShopHRM.Shared/BethanyPieShopHRM.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "BethanyPieShopHRM.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\niranjanr\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Blazor\\BethanyPieshopHRM.App\\BethanyPieshopHRM.App\\BethanyPieShopHRM.App.csproj",
+      "projectName": "BethanyPieShopHRM.App",
+      "projectPath": "E:\\Blazor\\BethanyPieshopHRM.App\\BethanyPieshopHRM.App\\BethanyPieShopHRM.App.csproj",
+      "packagesPath": "C:\\Users\\niranjanr\\.nuget\\packages\\",
+      "outputPath": "E:\\Blazor\\BethanyPieshopHRM.App\\BethanyPieshopHRM.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\niranjanr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "E:\\Blazor\\BethanyPieshopHRM.App\\BethanyPieShopHRM.Shared\\BethanyPieShopHRM.Shared.csproj": {
+              "projectPath": "E:\\Blazor\\BethanyPieshopHRM.App\\BethanyPieShopHRM.Shared\\BethanyPieShopHRM.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BethanyPieShopHRM.Shared is not compatible with netstandard2.1 (.NETStandard,Version=v2.1). Project BethanyPieShopHRM.Shared supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "BethanyPieShopHRM.Shared",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}

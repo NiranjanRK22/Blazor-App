@@ -1,0 +1,10 @@
+E:\Blazor\BethanyPieshopHRM.App\BethanyPieShopHRM.Shared\bin\Debug\netcoreapp3.1\BethanyPieShopHRM.Shared.deps.json
+E:\Blazor\BethanyPieshopHRM.App\BethanyPieShopHRM.Shared\bin\Debug\netcoreapp3.1\BethanyPieShopHRM.Shared.dll
+E:\Blazor\BethanyPieshopHRM.App\BethanyPieShopHRM.Shared\bin\Debug\netcoreapp3.1\BethanyPieShopHRM.Shared.pdb
+E:\Blazor\BethanyPieshopHRM.App\BethanyPieShopHRM.Shared\obj\Debug\netcoreapp3.1\BethanyPieShopHRM.Shared.csproj.AssemblyReference.cache
+E:\Blazor\BethanyPieshopHRM.App\BethanyPieShopHRM.Shared\obj\Debug\netcoreapp3.1\BethanyPieShopHRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blazor\BethanyPieshopHRM.App\BethanyPieShopHRM.Shared\obj\Debug\netcoreapp3.1\BethanyPieShopHRM.Shared.AssemblyInfoInputs.cache
+E:\Blazor\BethanyPieshopHRM.App\BethanyPieShopHRM.Shared\obj\Debug\netcoreapp3.1\BethanyPieShopHRM.Shared.AssemblyInfo.cs
+E:\Blazor\BethanyPieshopHRM.App\BethanyPieShopHRM.Shared\obj\Debug\netcoreapp3.1\BethanyPieShopHRM.Shared.csproj.CoreCompileInputs.cache
+E:\Blazor\BethanyPieshopHRM.App\BethanyPieShopHRM.Shared\obj\Debug\netcoreapp3.1\BethanyPieShopHRM.Shared.dll
+E:\Blazor\BethanyPieshopHRM.App\BethanyPieShopHRM.Shared\obj\Debug\netcoreapp3.1\BethanyPieShopHRM.Shared.pdb
